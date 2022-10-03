@@ -1,0 +1,15 @@
+.nav{
+    list-style-type: none;
+    background-color: aquamarine;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
+.nav li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+}
+.nav li a:hover{
+    color: red;
+}
